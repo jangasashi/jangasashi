@@ -28,7 +28,7 @@
 - I work as a **Data Analyst**, focused on turning messy datasets into clean insight.
 - I build with **SQL**, **Python**, **Power BI**, and **Machine Learning** models (regression, classification).
 - Recent work: a **bulldozer price regression model** in Jupyter, a **SQL-based analysis project**, and an **ATS (Applicant Tracking System) project** in Python.
-- I'm based in Nandyal, India, and currently sharpening my data analytics + ML skill set project by project.
+- I'm based in Banglore, India, and currently sharpening my data analytics + ML skill set project by project.
 - Reach me at [shashikrish.143@gmail.com](mailto:shashikrish.143@gmail.com).
 
 ### Top Skills
