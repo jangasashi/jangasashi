@@ -1,148 +1,151 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Janga%20Sashi%20Hari%20Krishna&fontSize=48&fontAlignY=38&desc=%F0%9F%94%A5%20The%20Data%20Ninja%20%7C%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20ML%20%F0%9F%94%A5&descAlignY=58&animation=twinkling&fontColor=FF6600&descSize=18"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FF6600&center=true&vCenter=true&width=750&lines=%F0%9F%8D%A5+Dattebayo!+I'm+Sashi!;%F0%9F%94%A5+The+Data+Ninja+of+Bangalore;%E2%88%9E+Limitless+in+SQL+%7C+Python+%7C+Power+BI;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Future+King+of+Data+Analytics!;%E2%9A%94%EF%B8%8F+Turning+Raw+Data+into+Freedom!)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jangasashi&style=for-the-badge&color=FF6600&label=PROFILE+VIEWS)
-&nbsp;
-![Focus](https://img.shields.io/badge/%F0%9F%94%A5-DATA%20ANALYTICS-FF6600?style=for-the-badge)
-&nbsp;
-![Location](https://img.shields.io/badge/%F0%9F%8D%A5-BANGALORE%20INDIA-7B2FBE?style=for-the-badge)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,6,12,6&height=240&section=header&text=JANGA%20SASHI%20HARI%20KRISHNA&fontSize=44&fontAlignY=38&desc=%3E_%20DATA%20ANALYST%20%7C%20SQL%20%E2%80%A2%20PYTHON%20%E2%80%A2%20POWER%20BI%20%E2%80%A2%20ML&descAlignY=58&animation=twinkling&fontColor=39FF14&descSize=17"/>
 
 </div>
+
+<div align="center">
+
+<img src="assets/avatar.png" width="180" style="border-radius: 50%; border: 3px solid #39FF14;" alt="Janga Sashi Hari Krishna"/>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+DATA+SYSTEMS...;%3E+ANALYST+ONLINE+%7C+BANGALORE%2C+INDIA;%3E+TURNING+RAW+DATA+INTO+DECISIONS;%3E+SQL+%7C+PYTHON+%7C+POWER+BI+%7C+ML+%3A+LOADED;%3E+READY+TO+DEPLOY+%E2%9C%94)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jangasashi&style=for-the-badge&color=006400&label=PROFILE+VIEWS&labelColor=0D0D0D)
+&nbsp;
+![Focus](https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-39FF14?style=for-the-badge&labelColor=0D0D0D&color=006400)
+&nbsp;
+![Location](https://img.shields.io/badge/LOCATION-BANGALORE%20IN-39FF14?style=for-the-badge&labelColor=0D0D0D&color=006400)
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## 🍃 The Data Ninja — About Me 🍃
-
-> *"I'm not gonna run away and I never go back on my word — that's my nindo, my ninja way!"* — **Naruto Uzumaki** 🍥
+## `> SYSTEM PROFILE`
 
 </div>
 
 ```python
-class DataNinja:
-    name     = "Janga Sashi Hari Krishna"
-    alias    = "The Data Ninja 🍃"
-    village  = "Bangalore, India"
-    email    = "shashikrish.143@gmail.com"
+# =============================================
+#  SYSTEM INIT — DATA ANALYST NODE
+# =============================================
 
-    # ∞ Gojo's Infinity — no data escapes analysis
-    analytics_power  = ["SQL", "Python", "Power BI", "Excel"]
+class DataAnalyst:
+    name      = "Janga Sashi Hari Krishna"
+    role      = "Data Analyst"
+    location  = "Bangalore, India"
+    email     = "shashikrish.143@gmail.com"
 
-    # ⚔️ Eren's Paths — connecting every data point
-    analysis_jutsu   = ["Data Collection", "Data Preparation", "EDA",
-                        "KPI Reporting", "Dashboard Development",
-                        "Performance Reporting"]
+    analytics_tools  = ["SQL", "Python", "Power BI", "Excel"]
 
-    # 🏴‍☠️ Luffy's Observation Haki — seeing stories in numbers
+    analysis_skills  = ["Data Collection", "Data Preparation",
+                        "Exploratory Data Analysis", "KPI Reporting",
+                        "Dashboard Development", "Performance Reporting"]
+
     visualization    = ["Power BI Dashboards", "Excel Charts", "Data Storytelling"]
 
-    # 🍃 Will of Fire — the professional way
-    shinobi_way      = ["Stakeholder Collaboration", "Communication",
-                        "Problem Solving", "Documentation", "Attention to Detail"]
+    professional     = ["Stakeholder Collaboration", "Communication",
+                        "Problem Solving", "Documentation",
+                        "Attention to Detail"]
 
-    def nindo(self):
-        return "Turning raw data into decisions — Dattebayo! 🍥"
+    status = "ONLINE ✔"
+
+    def execute(self):
+        return "Turning raw data into decisions. 📊"
+
+# =============================================
 ```
 
 <br/>
 
 ---
 
-## ∞ Gojo's Infinity — Analytics & Data Tools
+## `> ANALYTICS & DATA TOOLS`
 
 <div align="center">
-
-> *"Throughout Heaven and Earth, I alone am the honoured one."* — **Gojo Satoru** 🥽
 
 <img src="https://skillicons.dev/icons?i=python,mysql,vscode,github&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL-00A8E8?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-39FF14?style=for-the-badge&logo=postgresql&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=0D0D0D&labelColor=0D0D0D"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-39FF14?style=for-the-badge&logo=microsoftexcel&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-39FF14?style=for-the-badge&logo=jupyter&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-39FF14?style=for-the-badge&logo=pandas&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-39FF14?style=for-the-badge&logo=numpy&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-39FF14?style=for-the-badge&logo=scikitlearn&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 
 </div>
 
 <br/>
 
-## ⚔️ Eren's Paths — Data Analysis Skills
+## `> DATA ANALYSIS SKILLS`
 
 <div align="center">
 
-> *"If you win, you live. If you lose, you die. If you don't fight, you can't win!"* — **Eren Yeager** ⚔️
-
-<img src="https://img.shields.io/badge/%F0%9F%93%A5%20Data%20Collection-2D5A27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Collection-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A7%B9%20Data%20Preparation-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Preparation-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%8D%20Exploratory%20Data%20Analysis-2D5A27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8C%20KPI%20Reporting-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=39FF14&logoColor=0D0D0D"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8A%20Dashboard%20Development-2D5A27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard%20Development-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%88%20Performance%20Reporting-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance%20Reporting-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 
 </div>
 
 <br/>
 
-## 🏴‍☠️ Luffy's King Vision — Data Visualization
+## `> DATA VISUALIZATION`
 
 <div align="center">
 
-> *"I don't want to conquer anything. The guy with the most freedom in this whole ocean is the Pirate King!"* — **Monkey D. Luffy** 🏴‍☠️
-
-<img src="https://img.shields.io/badge/%F0%9F%93%8A%20Power%20BI%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=0D0D0D&labelColor=0D0D0D"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%89%20Excel%20Charts-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel%20Charts-39FF14?style=for-the-badge&logo=microsoftexcel&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%96%20Data%20Storytelling-DC143C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Storytelling-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 
 </div>
 
 <br/>
 
-## 🍃 Naruto's Nindo — Professional Skills
+## `> PROFESSIONAL SKILLS`
 
 <div align="center">
 
-> *"Hard work is worthless for those that don't believe in themselves."* — **Naruto Uzumaki** 🍥
-
-<img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Stakeholder%20Collaboration-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stakeholder%20Collaboration-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Communication-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Communication-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Problem%20Solving-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%9D%20Documentation-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Documentation-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%8E%20Attention%20to%20Detail-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Attention%20to%20Detail-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
 
 </div>
 
@@ -150,16 +153,16 @@ class DataNinja:
 
 ---
 
-## 🗺️ Mission Arc — Featured Projects
+## `> ACTIVE PROJECTS`
 
 <div align="center">
 
-| Arc | Project | Description | Stack |
+| # | Project | Description | Stack |
 |:---:|---------|-------------|-------|
-| 🤖 | [Machine-Learning-Project](https://github.com/jangasashi/Machine-Learning-Project) | ML modeling — Naruto training arc | Python · Jupyter · Pandas |
-| 🚜 | [bulldozer-price-regreession-model](https://github.com/jangasashi/bulldozer-price-regreession-model) | Price regression — Gojo's precision | Python · Scikit-learn · ML |
-| 🗄️ | [SQL-PROJECT](https://github.com/jangasashi/SQL-PROJECT) | SQL analysis — Eren's calculated paths | SQL · Data Analysis |
-| 💼 | [ATS_Project](https://github.com/jangasashi/ATS_Project) | Applicant Tracking — Luffy's crew builder | Python · OOP |
+| 01 | [Machine-Learning-Project](https://github.com/jangasashi/Machine-Learning-Project) | ML modeling in Jupyter Notebook | Python · Jupyter · Pandas |
+| 02 | [bulldozer-price-regreession-model](https://github.com/jangasashi/bulldozer-price-regreession-model) | Regression model — bulldozer sale prices | Python · Scikit-learn · ML |
+| 03 | [SQL-PROJECT](https://github.com/jangasashi/SQL-PROJECT) | SQL-focused data analysis & querying | SQL · Data Analysis |
+| 04 | [ATS_Project](https://github.com/jangasashi/ATS_Project) | Python-based Applicant Tracking System | Python · OOP |
 
 </div>
 
@@ -167,19 +170,19 @@ class DataNinja:
 
 ---
 
-## 📊 Power Level — GitHub Analytics
+## `> GITHUB ANALYTICS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangasashi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=FF6600&text_color=FFFFFF&ring_color=FF6600"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangasashi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&ring_color=39FF14"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangasashi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangasashi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=39FF14&text_color=FFFFFF&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jangasashi&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6600&ring=FF6600&fire=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6600&sideLabels=FF6600&dates=888888"/>
+<img src="https://streak-stats.demolab.com?user=jangasashi&theme=chartreuse-dark&hide_border=true&background=0D0D0D&stroke=39FF14&ring=39FF14&fire=ADFF2F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=39FF14&sideLabels=39FF14&dates=888888"/>
 
 </div>
 
@@ -187,7 +190,7 @@ class DataNinja:
 
 ---
 
-## 🎮 Pac-Man Eating My Contributions!
+## `> PAC-MAN EATING MY CONTRIBUTIONS`
 
 <div align="center">
 
@@ -203,24 +206,24 @@ class DataNinja:
 
 ---
 
-## 📬 Join My Crew — Connect With Me
+## `> CONNECT`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sashi-hari-krishna-janga-96aa28223/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 </a>
 &nbsp;
 <a href="mailto:shashikrish.143@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-shashikrish.143%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-39FF14?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/paradox____._">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-39FF14?style=for-the-badge&logo=instagram&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 </a>
 &nbsp;
 <a href="https://github.com/jangasashi">
-  <img src="https://img.shields.io/badge/GitHub-jangasashi-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-jangasashi-39FF14?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 </a>
 
 </div>
@@ -231,8 +234,8 @@ class DataNinja:
 
 <div align="center">
 
-> *"The ones who aren't able to acknowledge their own selves are bound to fail."* — **Gojo Satoru** 🥽
+`> DATA IS THE NEW OIL. ANALYSIS IS THE REFINERY.`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,6,12,6&height=130&section=footer&animation=twinkling"/>
 
 </div>
