@@ -1,75 +1,72 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=230&section=header&text=Janga%20Sashi%20Hari%20Krishna&fontSize=48&fontAlignY=38&desc=%E2%9A%A1%20Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Machine%20Learning%20%E2%9A%A1&descAlignY=60&animation=twinkling&fontColor=ffffff&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Janga%20Sashi%20Hari%20Krishna&fontSize=48&fontAlignY=38&desc=%F0%9F%94%A5%20The%20Data%20Ninja%20%7C%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20ML%20%F0%9F%94%A5&descAlignY=58&animation=twinkling&fontColor=FF6600&descSize=18"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Sashi!;%F0%9F%93%8A+Data+Analyst+%7C+Insight+Hunter;%F0%9F%A7%A0+Turning+Raw+Data+into+Decisions;%E2%9A%A1+SQL+%7C+Python+%7C+Power+BI+%7C+Machine+Learning;%F0%9F%8E%AF+Dashboards+that+Actually+Answer+Questions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FF6600&center=true&vCenter=true&width=750&lines=%F0%9F%8D%A5+Dattebayo!+I'm+Sashi!;%F0%9F%94%A5+The+Data+Ninja+of+Bangalore;%E2%88%9E+Limitless+in+SQL+%7C+Python+%7C+Power+BI;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Future+King+of+Data+Analytics!;%E2%9A%94%EF%B8%8F+Turning+Raw+Data+into+Freedom!)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jangasashi&style=for-the-badge&color=7B2FBE&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jangasashi&style=for-the-badge&color=FF6600&label=PROFILE+VIEWS)
 &nbsp;
-![Focus](https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-00D4FF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/%F0%9F%94%A5-DATA%20ANALYTICS-FF6600?style=for-the-badge)
 &nbsp;
-![Location](https://img.shields.io/badge/BASED%20IN-BANGALORE%2C%20INDIA-FF6B9D?style=for-the-badge)
+![Location](https://img.shields.io/badge/%F0%9F%8D%A5-BANGALORE%20INDIA-7B2FBE?style=for-the-badge)
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-## ⚡ About Me
+## 🍃 The Data Ninja — About Me 🍃
+
+> *"I'm not gonna run away and I never go back on my word — that's my nindo, my ninja way!"* — **Naruto Uzumaki** 🍥
 
 </div>
 
 ```python
-class DataAnalyst:
-    name      = "Janga Sashi Hari Krishna"
-    role      = "Data Analyst"
-    location  = "Bangalore, India"
-    email     = "shashikrish.143@gmail.com"
+class DataNinja:
+    name     = "Janga Sashi Hari Krishna"
+    alias    = "The Data Ninja 🍃"
+    village  = "Bangalore, India"
+    email    = "shashikrish.143@gmail.com"
 
-    skills = {
-        "analytics_tools"  : ["SQL", "Python", "Power BI", "Excel"],
-        "analysis_skills"  : ["Data Collection", "Data Preparation", "EDA",
-                              "KPI Reporting", "Dashboard Development",
-                              "Performance Reporting"],
-        "visualization"    : ["Power BI Dashboards", "Excel Charts", "Data Storytelling"],
-        "professional"     : ["Stakeholder Collaboration", "Communication",
-                              "Problem Solving", "Documentation",
-                              "Attention to Detail"],
-    }
+    # ∞ Gojo's Infinity — no data escapes analysis
+    analytics_power  = ["SQL", "Python", "Power BI", "Excel"]
 
-    projects = [
-        "bulldozer-price-regression-model",
-        "Machine-Learning-Project",
-        "SQL-PROJECT",
-        "ATS_Project",
-    ]
+    # ⚔️ Eren's Paths — connecting every data point
+    analysis_jutsu   = ["Data Collection", "Data Preparation", "EDA",
+                        "KPI Reporting", "Dashboard Development",
+                        "Performance Reporting"]
 
-    currently = "Sharpening data analytics + ML skill set, project by project 🚀"
+    # 🏴‍☠️ Luffy's Observation Haki — seeing stories in numbers
+    visualization    = ["Power BI Dashboards", "Excel Charts", "Data Storytelling"]
 
-    def mission(self):
-        return "Turning raw data into decisions 📊"
+    # 🍃 Will of Fire — the professional way
+    shinobi_way      = ["Stakeholder Collaboration", "Communication",
+                        "Problem Solving", "Documentation", "Attention to Detail"]
+
+    def nindo(self):
+        return "Turning raw data into decisions — Dattebayo! 🍥"
 ```
 
 <br/>
 
 ---
 
-## 🎯 Analytics & Data Tools
+## ∞ Gojo's Infinity — Analytics & Data Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&theme=dark" />
+> *"Throughout Heaven and Earth, I alone am the honoured one."* — **Gojo Satoru** 🥽
+
+<img src="https://skillicons.dev/icons?i=python,mysql,vscode,github&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-00A8E8?style=for-the-badge&logo=postgresql&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 &nbsp;
@@ -89,57 +86,63 @@ class DataAnalyst:
 
 <br/>
 
-## 🔬 Data Analysis Skills
+## ⚔️ Eren's Paths — Data Analysis Skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%93%A5%20Data%20Collection-7B2FBE?style=for-the-badge"/>
+> *"If you win, you live. If you lose, you die. If you don't fight, you can't win!"* — **Eren Yeager** ⚔️
+
+<img src="https://img.shields.io/badge/%F0%9F%93%A5%20Data%20Collection-2D5A27?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A7%B9%20Data%20Preparation-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%A7%B9%20Data%20Preparation-4CAF50?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%8D%20Exploratory%20Data%20Analysis-00D4FF?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8C%20KPI%20Reporting-FF6B9D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%8D%20Exploratory%20Data%20Analysis-2D5A27?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8A%20Dashboard%20Development-7B2FBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8C%20KPI%20Reporting-4CAF50?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%88%20Performance%20Reporting-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8A%20Dashboard%20Development-2D5A27?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%93%88%20Performance%20Reporting-4CAF50?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-## 📊 Data Visualization
+## 🏴‍☠️ Luffy's King Vision — Data Visualization
 
 <div align="center">
+
+> *"I don't want to conquer anything. The guy with the most freedom in this whole ocean is the Pirate King!"* — **Monkey D. Luffy** 🏴‍☠️
 
 <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Power%20BI%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 &nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%93%89%20Excel%20Charts-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%96%20Data%20Storytelling-FF6B9D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%96%20Data%20Storytelling-DC143C?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-## 🤝 Professional Skills
+## 🍃 Naruto's Nindo — Professional Skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Stakeholder%20Collaboration-00D4FF?style=for-the-badge"/>
+> *"Hard work is worthless for those that don't believe in themselves."* — **Naruto Uzumaki** 🍥
+
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Stakeholder%20Collaboration-FF6600?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Communication-7B2FBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Communication-FF8C00?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Problem%20Solving-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Problem%20Solving-FF6600?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%9D%20Documentation-FF6B9D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%9D%20Documentation-FF8C00?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%8E%20Attention%20to%20Detail-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%8E%20Attention%20to%20Detail-FF6600?style=for-the-badge"/>
 
 </div>
 
@@ -147,16 +150,16 @@ class DataAnalyst:
 
 ---
 
-## 🚀 Featured Projects
+## 🗺️ Mission Arc — Featured Projects
 
 <div align="center">
 
-| &nbsp; | Project | Description | Stack |
+| Arc | Project | Description | Stack |
 |:---:|---------|-------------|-------|
-| 🤖 | [Machine-Learning-Project](https://github.com/jangasashi/Machine-Learning-Project) | ML modeling work in Jupyter Notebook | Python · Jupyter · Pandas |
-| 🚜 | [bulldozer-price-regreession-model](https://github.com/jangasashi/bulldozer-price-regreession-model) | Regression model predicting bulldozer sale prices | Python · Scikit-learn · ML |
-| 🗄️ | [SQL-PROJECT](https://github.com/jangasashi/SQL-PROJECT) | SQL-focused data analysis & querying project | SQL · Data Analysis |
-| 💼 | [ATS_Project](https://github.com/jangasashi/ATS_Project) | Python-based Applicant Tracking System | Python · OOP |
+| 🤖 | [Machine-Learning-Project](https://github.com/jangasashi/Machine-Learning-Project) | ML modeling — Naruto training arc | Python · Jupyter · Pandas |
+| 🚜 | [bulldozer-price-regreession-model](https://github.com/jangasashi/bulldozer-price-regreession-model) | Price regression — Gojo's precision | Python · Scikit-learn · ML |
+| 🗄️ | [SQL-PROJECT](https://github.com/jangasashi/SQL-PROJECT) | SQL analysis — Eren's calculated paths | SQL · Data Analysis |
+| 💼 | [ATS_Project](https://github.com/jangasashi/ATS_Project) | Applicant Tracking — Luffy's crew builder | Python · OOP |
 
 </div>
 
@@ -164,19 +167,19 @@ class DataAnalyst:
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 Power Level — GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangasashi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=FFFFFF&ring_color=FF6B9D"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangasashi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=FF6600&text_color=FFFFFF&ring_color=FF6600"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangasashi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangasashi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jangasashi&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=00D4FF&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7&dates=888888"/>
+<img src="https://streak-stats.demolab.com?user=jangasashi&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6600&ring=FF6600&fire=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6600&sideLabels=FF6600&dates=888888"/>
 
 </div>
 
@@ -200,7 +203,7 @@ class DataAnalyst:
 
 ---
 
-## 📬 Connect With Me
+## 📬 Join My Crew — Connect With Me
 
 <div align="center">
 
@@ -228,8 +231,8 @@ class DataAnalyst:
 
 <div align="center">
 
-*"Data is not just numbers — it's a story waiting to be told."* 📊
+> *"The ones who aren't able to acknowledge their own selves are bound to fail."* — **Gojo Satoru** 🥽
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=twinkling"/>
 
 </div>
