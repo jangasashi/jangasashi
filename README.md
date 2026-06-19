@@ -72,6 +72,10 @@ class DataAnalyst:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,vscode,github&theme=dark"/>
+&nbsp;
+<img src="assets/power-bi-icon.svg" width="48" height="48" alt="Power BI"/>
+&nbsp;
+<img src="assets/microsoft-excel-icon.svg" width="48" height="48" alt="Excel"/>
 
 <br/><br/>
 
