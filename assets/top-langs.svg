@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="175" viewBox="0 0 440 175" role="img" aria-label="Most Used Languages">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D0D0D"/>
+      <stop offset="1" stop-color="#120a26"/>
+    </linearGradient>
+    <clipPath id="barclip"><rect x="24" y="58" width="392" height="11" rx="5.5"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="438" height="173" rx="14" fill="url(#bg)" stroke="#B39DFF" stroke-width="1.5"/>
+  <text x="24" y="32" font-family="Segoe UI,Verdana,sans-serif" font-size="16" font-weight="700" fill="#B39DFF">Most Used Languages</text>
+  <line x1="24" y1="44" x2="416" y2="44" stroke="#2d2168" stroke-width="1"/>
+
+  <!-- stacked proportion bar -->
+  <g clip-path="url(#barclip)">
+    <rect x="24"    y="58" width="374" height="11" fill="#DA5B0B"/>
+    <rect x="398"   y="58" width="6.3" height="11" fill="#E34C26"/>
+    <rect x="404.3" y="58" width="5.5" height="11" fill="#3572A5"/>
+    <rect x="409.8" y="58" width="4.7" height="11" fill="#563D7C"/>
+    <rect x="414.5" y="58" width="3"   height="11" fill="#F1E05A"/>
+  </g>
+
+  <!-- legend -->
+  <g font-family="Segoe UI,Verdana,sans-serif" font-size="12.5" fill="#D6D6DE">
+    <circle cx="30"  cy="98"  r="5" fill="#DA5B0B"/><text x="42"  y="102">Jupyter Notebook&#160;&#160;95.4%</text>
+    <circle cx="30"  cy="126" r="5" fill="#E34C26"/><text x="42"  y="130">HTML&#160;&#160;1.6%</text>
+    <circle cx="30"  cy="154" r="5" fill="#3572A5"/><text x="42"  y="158">Python&#160;&#160;1.4%</text>
+    <circle cx="244" cy="126" r="5" fill="#563D7C"/><text x="256" y="130">CSS&#160;&#160;1.2%</text>
+    <circle cx="244" cy="154" r="5" fill="#F1E05A"/><text x="256" y="158">JavaScript&#160;&#160;0.5%</text>
+  </g>
+</svg>

@@ -319,9 +319,9 @@ $ whoami
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangasashi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=B39DFF&icon_color=B39DFF&text_color=FFFFFF&ring_color=B39DFF"/>
+<img height="175" src="assets/stats.svg" alt="GitHub snapshot — 41 commits · 6 repos · 5 languages · 2 certifications"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangasashi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=B39DFF&text_color=FFFFFF&langs_count=6"/>
+<img height="175" src="assets/top-langs.svg" alt="Most used languages"/>
 
 <br/><br/>
 
