@@ -1,7 +1,7 @@
 <!-- ============================================================================
      JANGA SASHI HARI KRISHNA — DATA ANALYST
      Neon-green "data terminal" profile · premium build
-     Palette: #39FF14 neon · #006400 deep green · #0D0D0D void · #ADFF2F lime
+     Palette: #B39DFF neon · #6D28D9 deep green · #0D0D0D void · #C4B5FD lime
      ============================================================================ -->
 
 <!-- ============================= HERO BANNER ============================= -->
@@ -14,39 +14,39 @@
 <!-- ============================= IDENTITY ============================= -->
 <div align="center">
 
-<img src="assets/avatar.png" width="180" style="border-radius: 50%; border: 3px solid #39FF14;" alt="Janga Sashi Hari Krishna"/>
+<img src="assets/avatar.png" width="180" style="border-radius: 50%; border: 3px solid #B39DFF;" alt="Janga Sashi Hari Krishna"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=720&lines=%3E+INITIALIZING+DATA+SYSTEMS...;%3E+ANALYST+ONLINE+%7C+BANGALORE%2C+INDIA;%3E+TURNING+RAW+DATA+INTO+DECISIONS;%3E+SQL+%7C+PYTHON+%7C+POWER+BI+%7C+ML+%3A+LOADED;%3E+READY+TO+DEPLOY+%E2%9C%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=800&color=B39DFF&center=true&vCenter=true&width=720&lines=%3E+INITIALIZING+DATA+SYSTEMS...;%3E+ANALYST+ONLINE+%7C+BANGALORE%2C+INDIA;%3E+TURNING+RAW+DATA+INTO+DECISIONS;%3E+SQL+%7C+PYTHON+%7C+POWER+BI+%7C+ML+%3A+LOADED;%3E+READY+TO+DEPLOY+%E2%9C%94)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jangasashi&style=for-the-badge&color=006400&label=PROFILE+VIEWS&labelColor=0D0D0D)
+![Profile Views](https://komarev.com/ghpvc/?username=jangasashi&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS&labelColor=0D0D0D)
 &nbsp;
-![Focus](https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-39FF14?style=for-the-badge&labelColor=0D0D0D&color=006400)
+![Focus](https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-B39DFF?style=for-the-badge&labelColor=0D0D0D&color=6D28D9)
 &nbsp;
-![Location](https://img.shields.io/badge/LOCATION-BANGALORE%20IN-39FF14?style=for-the-badge&labelColor=0D0D0D&color=006400)
+![Location](https://img.shields.io/badge/LOCATION-BANGALORE%20IN-B39DFF?style=for-the-badge&labelColor=0D0D0D&color=6D28D9)
 &nbsp;
-![Open to work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=ADFF2F)
+![Open to work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=C4B5FD)
 
 <br/><br/>
 
 <!-- ============================= SOCIAL ROW (recruiter-friendly) ============================= -->
 <a href="https://www.linkedin.com/in/sashi-hari-krishna-janga-96aa28223/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-B39DFF?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 </a>
 &nbsp;
 <a href="mailto:shashikrish.143@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Me-39FF14?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+  <img src="https://img.shields.io/badge/Email-Reach%20Me-B39DFF?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/paradox____._">
-  <img src="https://img.shields.io/badge/Instagram-Follow-39FF14?style=for-the-badge&logo=instagram&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-B39DFF?style=for-the-badge&logo=instagram&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 </a>
 &nbsp;
 <a href="https://github.com/jangasashi">
-  <img src="https://img.shields.io/badge/GitHub-jangasashi-39FF14?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+  <img src="https://img.shields.io/badge/GitHub-jangasashi-B39DFF?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 </a>
 
 </div>
@@ -60,7 +60,7 @@
 
 ## `> IN THE FLOW`
 
-<img src="assets/showcase.gif" width="440" alt="In the flow — turning data into decisions" style="border-radius: 16px; border: 2px solid #39FF14;"/>
+<img src="assets/showcase.gif" width="440" alt="In the flow — turning data into decisions" style="border-radius: 16px; border: 2px solid #B39DFF;"/>
 
 <sub>`// deep work — where raw data becomes decisions`</sub>
 
@@ -135,8 +135,8 @@ $ whoami
 
 **🤖 Machine Learning Intern — UnifiedMentor**
 
-<img src="https://img.shields.io/badge/Role-ML%20Intern-39FF14?style=flat-square&labelColor=0D0D0D&color=006400"/>
-<img src="https://img.shields.io/badge/Stack-Python%20%C2%B7%20Scikit--learn-39FF14?style=flat-square&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Role-ML%20Intern-B39DFF?style=flat-square&labelColor=0D0D0D&color=6D28D9"/>
+<img src="https://img.shields.io/badge/Stack-Python%20%C2%B7%20Scikit--learn-B39DFF?style=flat-square&labelColor=0D0D0D&color=6D28D9"/>
 
 - Built **classification** (KNN, Decision Tree, Random Forest) and **regression** (Linear, Ridge, Lasso) models
 - Full **data preprocessing** — missing values, outliers, encoding, scaling
@@ -161,21 +161,21 @@ $ whoami
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL-39FF14?style=for-the-badge&logo=postgresql&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/SQL-B39DFF?style=for-the-badge&logo=postgresql&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Python-B39DFF?style=for-the-badge&logo=python&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=0D0D0D&labelColor=0D0D0D"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Excel-39FF14?style=for-the-badge&logo=microsoftexcel&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Excel-B39DFF?style=for-the-badge&logo=microsoftexcel&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Jupyter-39FF14?style=for-the-badge&logo=jupyter&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Jupyter-B39DFF?style=for-the-badge&logo=jupyter&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Pandas-39FF14?style=for-the-badge&logo=pandas&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Pandas-B39DFF?style=for-the-badge&logo=pandas&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/NumPy-39FF14?style=for-the-badge&logo=numpy&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/NumPy-B39DFF?style=for-the-badge&logo=numpy&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-39FF14?style=for-the-badge&logo=scikitlearn&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-B39DFF?style=for-the-badge&logo=scikitlearn&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 
 </div>
 
@@ -185,19 +185,19 @@ $ whoami
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Collection-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Data%20Collection-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Data%20Preparation-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Data%20Preparation-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/KPI%20Reporting-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=39FF14&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=B39DFF&logoColor=0D0D0D"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Dashboard%20Development-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Dashboard%20Development-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Performance%20Reporting-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Performance%20Reporting-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 
 </div>
 
@@ -209,9 +209,9 @@ $ whoami
 
 <img src="https://img.shields.io/badge/Power%20BI%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=0D0D0D&labelColor=0D0D0D"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Excel%20Charts-39FF14?style=for-the-badge&logo=microsoftexcel&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Excel%20Charts-B39DFF?style=for-the-badge&logo=microsoftexcel&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Data%20Storytelling-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Data%20Storytelling-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 
 </div>
 
@@ -221,17 +221,17 @@ $ whoami
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Stakeholder%20Collaboration-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Stakeholder%20Collaboration-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Communication-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Communication-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Problem%20Solving-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Documentation-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Documentation-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Attention%20to%20Detail-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Attention%20to%20Detail-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=6D28D9"/>
 
 </div>
 
@@ -278,7 +278,7 @@ $ whoami
 <!-- ============================= HIGHLIGHTED WORK ============================= -->
 ## `> HIGHLIGHTED WORK`
 
-**📊 Sales Performance Dashboard** &nbsp; <img src="https://img.shields.io/badge/SQL%20Server%20%C2%B7%20Power%20BI-39FF14?style=flat-square&labelColor=0D0D0D&color=006400"/> &nbsp; `Jan 2024`
+**📊 Sales Performance Dashboard** &nbsp; <img src="https://img.shields.io/badge/SQL%20Server%20%C2%B7%20Power%20BI-B39DFF?style=flat-square&labelColor=0D0D0D&color=6D28D9"/> &nbsp; `Jan 2024`
 - Designed a **star schema** (dimension + fact tables) for efficient reporting
 - Built **DAX** measures — total sales, growth rate, top-performing products
 - Implemented **Row-Level Security (RLS)** to control visibility by role / region
@@ -286,7 +286,7 @@ $ whoami
 
 <br/>
 
-**🍽️ Restaurant Order Analysis** &nbsp; <img src="https://img.shields.io/badge/MySQL%20%C2%B7%20Excel-39FF14?style=flat-square&labelColor=0D0D0D&color=006400"/> &nbsp; `Oct 2024`
+**🍽️ Restaurant Order Analysis** &nbsp; <img src="https://img.shields.io/badge/MySQL%20%C2%B7%20Excel-B39DFF?style=flat-square&labelColor=0D0D0D&color=6D28D9"/> &nbsp; `Oct 2024`
 - Normalized restaurant data into structured **MySQL** tables (orders, customers, menu)
 - Wrote optimized SQL with **JOINs, GROUP BY, HAVING, CASE** for customer segmentation
 - Built **Excel dashboards** with charts, slicers & KPIs for business insights
@@ -301,9 +301,9 @@ $ whoami
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI%20%26%20SQL-Frontlines%20EduTech%20%C2%B7%202026-39FF14?style=for-the-badge&logo=powerbi&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Power%20BI%20%26%20SQL-Frontlines%20EduTech%20%C2%B7%202026-B39DFF?style=for-the-badge&logo=powerbi&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Udemy%20%C2%B7%202024-39FF14?style=for-the-badge&logo=udemy&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Udemy%20%C2%B7%202024-B39DFF?style=for-the-badge&logo=udemy&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 
 </div>
 
@@ -316,13 +316,13 @@ $ whoami
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangasashi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&ring_color=39FF14"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jangasashi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=B39DFF&icon_color=B39DFF&text_color=FFFFFF&ring_color=B39DFF"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangasashi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=39FF14&text_color=FFFFFF&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangasashi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=B39DFF&text_color=FFFFFF&langs_count=6"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=jangasashi&theme=chartreuse-dark&hide_border=true&background=0D0D0D&stroke=39FF14&ring=39FF14&fire=ADFF2F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=39FF14&sideLabels=39FF14&dates=888888"/>
+<img src="https://streak-stats.demolab.com?user=jangasashi&theme=chartreuse-dark&hide_border=true&background=0D0D0D&stroke=B39DFF&ring=B39DFF&fire=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B39DFF&sideLabels=B39DFF&dates=888888"/>
 
 </div>
 
@@ -353,19 +353,19 @@ $ whoami
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sashi-hari-krishna-janga-96aa28223/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-B39DFF?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 </a>
 &nbsp;
 <a href="mailto:shashikrish.143@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-39FF14?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-B39DFF?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/paradox____._">
-  <img src="https://img.shields.io/badge/Instagram-Follow-39FF14?style=for-the-badge&logo=instagram&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-B39DFF?style=for-the-badge&logo=instagram&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 </a>
 &nbsp;
 <a href="https://github.com/jangasashi">
-  <img src="https://img.shields.io/badge/GitHub-jangasashi-39FF14?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+  <img src="https://img.shields.io/badge/GitHub-jangasashi-B39DFF?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=0D0D0D&color=6D28D9"/>
 </a>
 
 </div>
@@ -378,6 +378,6 @@ $ whoami
 
 `> DATA IS THE NEW OIL. ANALYSIS IS THE REFINERY.`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,6,12,6&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1444,50:8b5cf6,100:b39dff&height=130&section=footer&animation=twinkling"/>
 
 </div>
