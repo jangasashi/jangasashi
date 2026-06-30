@@ -7,7 +7,7 @@
 <!-- ============================= HERO BANNER ============================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,6,12,6&height=240&section=header&text=JANGA%20SASHI%20HARI%20KRISHNA&fontSize=44&fontAlignY=38&desc=%3E_%20DATA%20ANALYST%20%7C%20SQL%20%E2%80%A2%20PYTHON%20%E2%80%A2%20POWER%20BI%20%E2%80%A2%20ML&descAlignY=58&animation=twinkling&fontColor=39FF14&descSize=17"/>
+<img width="100%" src="assets/banner.svg" alt="Janga Sashi Hari Krishna — Data Analyst"/>
 
 </div>
 
@@ -113,13 +113,36 @@ class DataAnalyst:
 <!-- ============================= ABOUT ME ============================= -->
 ## `> ABOUT ME`
 
-- 🟢 &nbsp;I'm a **Data Analyst** based in **Bangalore, India**, turning raw, messy data into clear, decision-ready insight.
-- 📊 &nbsp;I work end-to-end: **data collection → cleaning → EDA → KPI reporting → dashboards**.
-- 🛠️ &nbsp;Daily toolkit: **SQL, Python (Pandas / NumPy), Power BI, Excel**, with **Scikit-learn** for ML modelling.
-- 📈 &nbsp;I build **Power BI dashboards** and **Excel reports** that stakeholders actually act on.
-- 🤝 &nbsp;Strong on **stakeholder communication, documentation, and attention to detail**.
-- 💬 &nbsp;Ask me about **SQL queries, dashboard design, EDA, or turning a vague question into a metric**.
-- 📫 &nbsp;Reach me at **shashikrish.143@gmail.com**.
+```bash
+$ whoami
+> data analyst who turns raw, messy data into decisions people actually trust
+```
+
+- 🟢 &nbsp;**Data Analyst** in **Bengaluru, India** — I live in the full pipeline: **SQL → cleaning → EDA → KPI reporting → Power BI dashboards**.
+- 🤖 &nbsp;**Machine Learning Intern @ UnifiedMentor** — shipped classification *(KNN, Decision Tree, Random Forest)* and regression *(Linear, Ridge, Lasso)* models end-to-end, deployed with `joblib` pipelines.
+- 📊 &nbsp;I design **star-schema data models**, write **DAX** for real KPIs, and ship dashboards with **Row-Level Security** + scheduled refresh.
+- 🎓 &nbsp;**B.Tech** — Rajeev Gandhi Memorial College of Engineering & Technology *(2024)*.
+- 🧠 &nbsp;Fluent across **SQL · Power BI · Excel · Python** *(Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)*.
+- 💬 &nbsp;Ask me about **SQL, Power BI / DAX, dashboard design, EDA, or turning a vague question into a measurable metric**.
+- 📫 &nbsp;**shashikrish.143@gmail.com**
+
+<br/>
+
+---
+
+<!-- ============================= EXPERIENCE ============================= -->
+## `> EXPERIENCE`
+
+**🤖 Machine Learning Intern — UnifiedMentor**
+
+<img src="https://img.shields.io/badge/Role-ML%20Intern-39FF14?style=flat-square&labelColor=0D0D0D&color=006400"/>
+<img src="https://img.shields.io/badge/Stack-Python%20%C2%B7%20Scikit--learn-39FF14?style=flat-square&labelColor=0D0D0D&color=006400"/>
+
+- Built **classification** (KNN, Decision Tree, Random Forest) and **regression** (Linear, Ridge, Lasso) models
+- Full **data preprocessing** — missing values, outliers, encoding, scaling
+- **EDA & visual insights** with Seaborn & Matplotlib
+- Deployed trained models with **`joblib`** in structured, version-controlled ML pipelines
+- 📈 **Result:** reproducible ML solutions that improved prediction accuracy on real datasets
 
 <br/>
 
@@ -245,6 +268,42 @@ class DataAnalyst:
 | 02 | [bulldozer-price-regreession-model](https://github.com/jangasashi/bulldozer-price-regreession-model) | Regression model — bulldozer sale prices | Python · Scikit-learn · ML |
 | 03 | [SQL-PROJECT](https://github.com/jangasashi/SQL-PROJECT) | SQL-focused data analysis & querying | SQL · Data Analysis |
 | 04 | [ATS_Project](https://github.com/jangasashi/ATS_Project) | Python-based Applicant Tracking System | Python · OOP |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================= HIGHLIGHTED WORK ============================= -->
+## `> HIGHLIGHTED WORK`
+
+**📊 Sales Performance Dashboard** &nbsp; <img src="https://img.shields.io/badge/SQL%20Server%20%C2%B7%20Power%20BI-39FF14?style=flat-square&labelColor=0D0D0D&color=006400"/> &nbsp; `Jan 2024`
+- Designed a **star schema** (dimension + fact tables) for efficient reporting
+- Built **DAX** measures — total sales, growth rate, top-performing products
+- Implemented **Row-Level Security (RLS)** to control visibility by role / region
+- Published to **Power BI Service** with scheduled auto-refresh → real-time stakeholder monitoring
+
+<br/>
+
+**🍽️ Restaurant Order Analysis** &nbsp; <img src="https://img.shields.io/badge/MySQL%20%C2%B7%20Excel-39FF14?style=flat-square&labelColor=0D0D0D&color=006400"/> &nbsp; `Oct 2024`
+- Normalized restaurant data into structured **MySQL** tables (orders, customers, menu)
+- Wrote optimized SQL with **JOINs, GROUP BY, HAVING, CASE** for customer segmentation
+- Built **Excel dashboards** with charts, slicers & KPIs for business insights
+- Recommended targeted **pricing, staffing & inventory** actions from the findings
+
+<br/>
+
+---
+
+<!-- ============================= CERTIFICATIONS ============================= -->
+## `> CERTIFICATIONS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI%20%26%20SQL-Frontlines%20EduTech%20%C2%B7%202026-39FF14?style=for-the-badge&logo=powerbi&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Udemy%20%C2%B7%202024-39FF14?style=for-the-badge&logo=udemy&logoColor=0D0D0D&labelColor=0D0D0D&color=006400"/>
 
 </div>
 
