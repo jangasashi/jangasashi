@@ -7,7 +7,7 @@
 <!-- ============================= HERO BANNER ============================= -->
 <div align="center">
 
-<img width="100%" src="assets/banner.png" alt="Janga Sashi Hari Krishna — Data Analyst"/>
+<img width="100%" src="assets/banner.png?v=2" alt="Janga Sashi Hari Krishna — Data Analyst"/>
 
 </div>
 
