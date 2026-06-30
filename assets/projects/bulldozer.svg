@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="140" viewBox="0 0 460 140" role="img" aria-label="bulldozer-price-regreession-model">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D0D0D"/>
+      <stop offset="1" stop-color="#07160a"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="458" height="138" rx="14" fill="url(#bg)" stroke="#39FF14" stroke-width="2"/>
+  <rect x="1" y="1" width="7" height="138" rx="3" fill="#39FF14"/>
+  <text x="30" y="38" font-family="Consolas,'Courier New',monospace" font-size="12.5" fill="#5f835f">&gt;_ repository</text>
+  <text x="30" y="68" font-family="Segoe UI,Verdana,sans-serif" font-size="16" font-weight="700" fill="#39FF14">bulldozer-price-regreession-model</text>
+  <text x="30" y="94" font-family="Segoe UI,Verdana,sans-serif" font-size="13" fill="#C2CCC2">Regression model for bulldozer sale prices</text>
+  <text x="30" y="121" font-family="Consolas,'Courier New',monospace" font-size="12.5" font-weight="700" fill="#ADFF2F">&#9656; Python &#183; Scikit-learn &#183; ML</text>
+</svg>
